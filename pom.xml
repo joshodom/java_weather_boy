@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Define your project details -->
-    <groupId>com.myproject</groupId>
-    <artifactId>json-display-app</artifactId>
+    <groupId>com.Java_Weather_Boy</groupId>
+    <artifactId>java-weather-boy</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
